@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guillermo Hervás
+# Hi, I'm Guillermo Hervás
 
 ## Cybersecurity Student & Tech Enthusiast
 
