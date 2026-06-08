@@ -1,7 +1,7 @@
 # Hola, soy Guillermo Hervás
 
-## Estudiante de Ciberseguridad
-
+## Especialista en Ciberseguridad / Administrador de Sistemas microinformáticos y Redes
+Conocimientos
 - 🐍 Python básico
 - 🌐 Wireshark
 - 💻 VirtualBox
