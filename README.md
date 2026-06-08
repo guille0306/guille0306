@@ -5,16 +5,16 @@ I am a passionate Cybersecurity student focused on mastering network analysis, d
 
 ## Tech Stack & Tools
 
-### 🐍 Programming & Scripting
+### Programming & Scripting 🐍
 ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Network & Analysis
+### Network & Analysis 🌐
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 💻 Virtualization & Labs
+### Virtualization & Labs 💻 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-214478?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### 🔍 Digital Forensics
+### Digital Forensics 🔍 
 ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-00599C?style=for-the-badge&logo=case&logoColor=white)
 
 ---
