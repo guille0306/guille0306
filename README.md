@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Guillermo Hervás
 
-<!--
-**guille0306/guille0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudiante de Ciberseguridad
 
-Here are some ideas to get you started:
+- 🐍 Python básico
+- 🌐 Wireshark
+- 💻 VirtualBox
+- 🔍Autopsy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ ecnologías
+
+![Python](https://img.shields.io/badge/Python-Básico-blue?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange?style=for-the-badge&logo=virtualbox)
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guille0306&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guille0306&layout=compact&theme=tokyonight)
+
+## 🌐 Contacto
+
+- LinkedIn: https://linkedin.com/in/proximamente
+- Portfolio: https://portfolio-proximamente.com
