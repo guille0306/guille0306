@@ -19,7 +19,7 @@ I am a passionate Cybersecurity student focused on mastering network analysis, d
 
 ---
 
-## 🚀 Current Learning Focus
+## Current Learning Focus
 * **Docker:** Containerization for security labs.
 * **Mobile Device Virtualization:** Exploring iOS/Android emulation for security testing.
 * **Office Apps Forensics:** Analyzing malicious documents and macro-based threats.
