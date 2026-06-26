@@ -31,4 +31,4 @@ I am a passionate Cybersecurity student focused on mastering network analysis, d
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-herv%C3%A1s-garc%C3%ADa-53929b417/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12100E?style=for-the-badge&logo=github)](../Downloads/Guillermo_Herv%C3%A1s_Garc%C3%ADa_ASIR_Sistemas_microinform%C3%A1ticos_y_Redes_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12100E?style=for-the-badge&logo=github)](https://drive.google.com/drive/folders/18XPpjJWknGreKeBPBTN6Y1CEh8MqiVBG?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
