@@ -30,5 +30,5 @@ I am a passionate Cybersecurity student focused on mastering network analysis, d
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/proximamente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-herv%C3%A1s-garc%C3%ADa-53929b417/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-12100E?style=for-the-badge&logo=github)](https://portfolio-proximamente.com)
